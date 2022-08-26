@@ -7,9 +7,6 @@ Enjoy!
 
 ## Steps:
 
-✔️ Meme competition [optional]:
-
-Include/find a MEME that you liked related to data science/data mining/machine learning. You can upload yours here.
 
 ✔️ Problem Formulation:
 
